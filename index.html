@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Portfolio</title>
+  <link rel="stylesheet" href="style.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet" />
+</head>
+<body>
+  <!-- Skip to main content button positioned top-right -->
+  <a href="#main-content" class="skip-link">Skip to main content</a>
+
+  <header>
+    <nav>
+      <ul>
+        <li><a href="#about">About</a></li>
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+    <div class="hero">
+      <h1>Sameer Mishra</h1>
+      <p>An aspiring Data Scientist</p>
+    </div>
+  </header>
+
+  <main id="main-content">
+    <section id="about" class="center-content">
+      <h2>About Me</h2>
+      <img src="profilepic.jpeg" alt="My Profile photo" />
+      <p>HELLO everyone this is my personal portfolio website on this i will share my journey through skills and projects </p>
+    </section>
+
+    <section id="projects">
+      <h2>Projects</h2>
+      <ul>
+        <li><b>Portfolio website:</b>my first project it is a simple portfolio website where you can put you projects and skills</li>
+        <li><b>todo app:</b>a simple task manager application</li>
+        <li><b>Snake game:</b>first python project that i have built </li>
+      </ul>
+    </section>
+
+    <section id="skills">
+      <h2>Technical Skills</h2>
+      <table>
+        <thead>
+          <tr><th>Skill</th><th>Proficiency</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>HTML</td><td>Advanced</td></tr>
+          <tr><td>CSS</td><td>Intermediate</td></tr>
+          <tr><td>Python</td><td>Beginner</td></tr>
+        </tbody>
+      </table>
+    </section>
+
+    <section id="contact">
+      <h2>Contact Me</h2>
+      <form>
+        <label for="name">Name:</label>
+        <input id="name" name="name" type="text" placeholder="Your name" required />
+
+        <label for="email">Email:</label>
+        <input id="email" name="email" type="email" placeholder="your.email@example.com" required />
+
+        <label for="message">Message:</label>
+        <textarea id="message" name="message" placeholder="Write your message here" required></textarea>
+
+        <button type="submit">Send</button>
+      </form>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy;Created by Me.....</p>
+  </footer>
+</body>
+</html>

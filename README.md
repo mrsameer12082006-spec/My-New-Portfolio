@@ -9,7 +9,7 @@ The website is designed to be accessible, easy to navigate, and CSS-ready for fu
 
 ---
 
-🧩 #Features
+#Features
 
 Semantic HTML5 structure using <header>, <nav>, <main>, <section>,  and <footer>
 
@@ -34,7 +34,7 @@ Footer with copyright text
 
 ---
 
-🎨 CSS Styling Highlights
+#CSS Styling Highlights
 
 External stylesheet (style.css) applied to all sections
 
@@ -56,7 +56,7 @@ Horizontal rules (<hr>) used as visual separators
 
 ---
 
-⚙️ Technologies Used
+#Technologies Used
 
 Category	Tools / Languages
 
@@ -69,7 +69,7 @@ Editor	Visual Studio Code
 
 ---
 
-📂 Sections
+#Sections
 
 1. Header – Contains the site title and navigation menu
 
@@ -96,7 +96,7 @@ Editor	Visual Studio Code
 
 ---
 
-🧭 Accessibility & Usability
+#Accessibility & Usability
 
 Added alt text for all images
 
@@ -110,7 +110,7 @@ Included skip-to-content navigation for improved accessibility
 
 ---
 
-🚀 How to Use
+#How to Use
 
 1. Download or clone this repository:
 
@@ -130,7 +130,7 @@ git clone https://github.com/yourusername/portfolio.git
 
 ---
 
-🌟 Future Enhancements
+#Future Enhancements
 
 Add smooth scrolling and transition effects
 
@@ -144,8 +144,8 @@ Add project preview images or GitHub links
 
 ---
 
-🧑‍💻 Author
+#Author
 
-Sameer Mishra
+Sameer Mishra 
 gmail:mrsameer12082006@gmail.com
 
